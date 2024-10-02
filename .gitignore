@@ -1,11 +1,9 @@
 # turn gitignore into whitelist
-*
-!*/
-
-!.gitignore
+.config/*
 
 !.config/alacritty/
 !.config/BetterDiscord/
+!.config/catsay_custom/
 !.config/fish/
 !.config/i3/
 !.config/kitty/
